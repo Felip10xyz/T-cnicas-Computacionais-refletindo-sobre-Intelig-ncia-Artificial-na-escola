@@ -12,14 +12,14 @@ const perguntas = [
                 texto: "Isso é assustador!",
                 afirmacao: [
                 "No início ficou com medo do que essa tecnologia pode fazer.",
-                ""
+                "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
             ]
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao:[ 
                     "Quis saber como quis usar IA no seu dia a dia.",
-                    ""
+                    "pensou que essa nova tecnologia pode ajudar em várias tarefas do dia a dia"
             ]
             }           
             
@@ -30,11 +30,20 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:"afirmacao"
+                afirmacao:
+                ["Conseguiu utilizar a IA para buscar informações úteis",
+                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",  
+                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."                                         
+                ]
+                
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                afirmacao:
+                    ["Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
+                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
+                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia.",
+                    ]  
             }
         ]
     },
