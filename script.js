@@ -69,10 +69,12 @@ const perguntas = [
             {
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
                 afirmacao:["Notou também que muitas pessoas ainda não sabem utilizar as ferramentas tradicionais e decidiram compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-            },
-            {
+                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais e fazer pintura em aquarela"        
+                ]
+          },
+     {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:"afirmacao"
+                afirmacao:["Acelerou"
             }
             
         ]
